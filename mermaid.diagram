@@ -1,0 +1,7 @@
+```mermaid!
+flowchart LR
+    first("Modelling") --> second
+    second("Drill paths") --> third
+    third("Post Processing") --> fourth
+    fourth("Running G-Code on CNC")
+```
