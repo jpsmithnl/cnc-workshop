@@ -30,7 +30,7 @@ permalink: /:title/
 
 
 # Build settings
-theme: minima
+theme: just-the-docs
 plugins:
   - jekyll-feed  
   - jekyll-default-layout
